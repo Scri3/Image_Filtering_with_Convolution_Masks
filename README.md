@@ -5,6 +5,14 @@ detection, blurring, sharpening, and original grayscale filter.\
 First, name your desired picture as `'input.jpg'`, and put it in the same directorry as Mask.py file.\
 By running the script, the image will be loaded and converted to grayscale. Then, a defined filter (`maskSharpen` in the current
     script) is applied to the image, and the ouput will be saved in the same directory named `'output.jpg'`.
+### Original Picture:
+![input](https://github.com/user-attachments/assets/19d549d7-4a8f-4a87-aade-48b968bdd8c6)
+
+
+### Applying Edge Detection filter:
+![output](https://github.com/user-attachments/assets/f3c09361-383b-4058-a0d9-568255cee489)
+
+
 
 ## Defined Filters
 
